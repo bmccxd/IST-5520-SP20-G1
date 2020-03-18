@@ -1,0 +1,15 @@
+To configure Git on computer for first time: 
+git config --global user.name "<userid>"
+git config --global user.email "<userid>@mst.edu"
+git clone https://github.com/bmccxd/IST-5520-SP20-G1.git
+
+To pull data from server to computer: 
+git pull
+
+To push data from computer to server:
+git status (check for changes in orange)
+git add *
+git status (check for changes in green)
+git commit -m “<put reason for change here>”
+git push
+
