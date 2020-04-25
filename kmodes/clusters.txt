@@ -1,0 +1,5 @@
+Animal                   DayNight                 Impairment               InjuryType               RoadCharacteristics      SurfaceCondition         Weather                  
+None/Other               Day                      None                     Property Damage Only     Not at a Junction        Dry                      Clear                    
+None/Other               Night                    None                     Injury                   T - Intersection         Wet                      Cloudy                   
+None/Other               Day                      None                     Property Damage Only     Not at a Junction        Snow                     Freezing Precipitation   
+None/Other               Night                    Alcohol                  Property Damage Only     Not at a Junction        Dry                      Cloudy                   
