@@ -1,5 +1,6 @@
 import numpy as np
 from kmodes.kmodes import KModes
+# kmodes reference: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.474.8181&rep=rep1&type=pdf
 import pandas as pd
 
 # np.random.seed(50)
